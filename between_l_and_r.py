@@ -1,4 +1,4 @@
-# your code goes here
+#guvi
 n=int(input())
 c=0
 a,b=map(int,input().split())
